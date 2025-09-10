@@ -1,0 +1,3 @@
+- [x] Modify `signup.js` to automatically log in the user after signup.
+- [ ] Test the signup and swap functionalities.
+- [ ] Investigate and fix the history bug.
